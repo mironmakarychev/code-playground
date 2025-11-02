@@ -1,3 +1,5 @@
+print("welcome to your story game")
+
 #The first 4 lines are questions to the users.
 name = input("What is your name?\n")
 animal = input("What is your favourite animal?\n")
