@@ -9,7 +9,7 @@ story = f"One day,{name} met a {animal} in the {place}. They started {action} to
 ending = f"It was the funniest day {name} could remember!"
 
 #Here the computer is printing your story!
-print("\n --- your story ----")
+print("\n ---- your story ---- here")
 print(story+"\n"+ending)
 
 #This saves your story to the file
